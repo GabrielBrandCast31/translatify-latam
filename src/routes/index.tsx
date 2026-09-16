@@ -3,7 +3,7 @@ import { Check, ChevronDown, MessageCircle, ShieldCheck } from "lucide-react";
 import { useEffect, useState } from "react";
 
 import { Button } from "@/components/ui/button";
-import heroImage from "@/assets/hero-kit-es.png";
+import heroImage from "@/assets/hero-kit-es-fixed.png";
 import howImage from "@/assets/como-funciona-es.png";
 import testimonialsImage from "@/assets/depoimentos-es.png";
 import contentsImage from "@/assets/contenido-kit-es.png";
